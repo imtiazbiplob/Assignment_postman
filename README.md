@@ -153,7 +153,7 @@ Steps:
    
 Expected Result:  Balance is updated, and transaction is listed with matching trnxId 
 
-TC014: Verify Customer 2 makes payment to Merchant 
+## TC014: Verify Customer 2 makes payment to Merchant 
 Steps: 
 1. > Login as Customer 2
 2. > Go to “Make Payment”
