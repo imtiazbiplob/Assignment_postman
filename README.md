@@ -16,7 +16,6 @@ newman run domone_api_automation.postman_collection.json -e dmoney_env.postman_e
 - Newman
 
 ## Prerequisite:
-- Jdk
 - Node Js
 - Newman
 - Html Report Library
