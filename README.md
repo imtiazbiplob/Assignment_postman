@@ -174,12 +174,12 @@ Expected Result:  Merchant’s balance reflects the payment amount from Customer
 ## Newman Report Summary:
 
 ### Report Dashboard
-![Newman Report Summary](https://github.com/imtiazbiplob/Dmoney_api_newman/blob/main/newman_report_dashboard.png)
+![Newman Report Summary](https://github.com/imtiazbiplob/Assignment_postman/blob/main/newman_report_dashboard.png)
 ### API Requests
-![Newman Report Summary](https://github.com/imtiazbiplob/Dmoney_api_newman/blob/main/newman_report_api_request.png)
+![Newman Report Summary](https://github.com/imtiazbiplob/Assignment_postman/blob/main/newman_report_request.png)
 
 ### Request Details
-![Newman Report Summary](https://github.com/imtiazbiplob/Dmoney_api_newman/blob/main/newman_report_request_details.png)
+![Newman Report Summary](https://github.com/imtiazbiplob/Assignment_postman/blob/main/newman_report_request_details.png)
 
 # Thank You
 
