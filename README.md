@@ -34,8 +34,7 @@ npm install -g newman-reporter-html
 npm install -g newman-reporter-htmlextra
 ```
 ## API Documentation:
-- [(https://documenter.getpostman.com/view/43043875/2sB2x5FsAN])
-
+- https://documenter.getpostman.com/view/43043875/2sB2x5FsAN
 ## Test case list:
 
 ## TC001:  Admin can login successfully using valid credentials.
