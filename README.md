@@ -4,11 +4,11 @@
 - Open with Postman / Command Shell
 - Run Command:  
 ```console 
-newman run domone_api_automation.postman_collection.json -e dmoney_env.postman_environment.json
+newman run collection_dir/domone_api_automation.postman_collection.json -e collection_dir/dmoney_env.postman_environment.json
 ```
 - Run Command for Report: 
 ```console 
-newman run domone_api_automation.postman_collection.json -e dmoney_env.postman_environment.json -r cli,htmlextra
+newman run collection_dir/domone_api_automation.postman_collection.json -e collection_dir/dmoney_env.postman_environment.json -r cli,htmlextra
 ``` 
 
 ## Technology used:
